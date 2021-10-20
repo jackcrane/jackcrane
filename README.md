@@ -66,3 +66,5 @@ Current player:
     </td>
   </tr>
 </table>
+
+[Reset game](https://gh-tik-tak-toe.jackcrane.workers.dev/reset)
