@@ -5,9 +5,15 @@
 - 👯 I’m looking to collaborate on some awesome open-source web projects
 - 📫 How to reach me: Discord `improper-adjectives#0597`, email jack@jackcrane.rocks
 
+**Check out my portfolio page at [jackcrane.rocks](https://jackcrane.rocks)
+
 ## Tik Tak Toe
 
-Play an interactive, global multiplayer tik tak toe game right here on my profile! Read the [blog post](https://blog.jackcrane.rocks/2021/10/20/gh-tik-tak-toe.html) on how it works or for a lower latency version (GitHub's cache adds about 2 minutes to each play)
+Play an interactive, global multiplayer tik tak toe game right here on my profile! 
+
+Read the [blog post](https://blog.jackcrane.rocks/2021/10/19/gh-tik-tak-toe.html) on how it works or for a lower latency version (GitHub's cache adds about 2 minutes to each play)
+
+Check out the [source code](https://github.com/jackcrane/gh-tik-tak-toe)
 
 Current player: 
 
