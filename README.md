@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there 👋
+
+- 🔭 I’m currently working on [JVerify](https://jverify.us), a phone number verification-as-a-service for startups and small developers and MTS*Express*, an inventory management app for a fortune 500 company
+- 🌱 I’m currently learning React and React Native
+- 👯 I’m looking to collaborate on some awesome open-source web projects
+- 📫 How to reach me: Discord `improper-adjectives#0597`, email jack@jackcrane.rocks
+
+## Tik Tak Toe
+
+Play an interactive, global multiplayer tik tak toe game right here on my profile! Read the [blog post](https://blog.jackcrane.rocks/2021/10/20/gh-tik-tak-toe.html) on how it works or for a lower latency version (GitHub's cache adds about 2 minutes to each play)
 
 Current player: 
 
@@ -57,17 +66,3 @@ Current player:
     </td>
   </tr>
 </table>
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
