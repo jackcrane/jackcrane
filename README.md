@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on some awesome open-source web projects
 - 📫 How to reach me: Discord `improper-adjectives#0597`, email jack@jackcrane.rocks
 
-**Check out my portfolio page at [jackcrane.rocks](https://jackcrane.rocks)
+**Check out my portfolio page at [jackcrane.rocks](https://jackcrane.rocks)**
 
 ## Tik Tak Toe
 
