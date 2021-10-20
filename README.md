@@ -2,7 +2,7 @@
 
 Current player: 
 
-<img src="https://gh-tik-tak-toe.jackcrane.workers.dev/current-player">
+<img src="https://gh-tik-tak-toe.jackcrane.workers.dev/current-player?escape-cache">
 
 <table>
   <tr>
