@@ -1,6 +1,5 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on [JVerify](https://jverify.us), a phone number verification-as-a-service for startups and small developers and MTS*Express*, an inventory management app for a fortune 500 company
 - 🌱 I’m currently learning React and React Native
 - 👯 I’m looking to collaborate on some awesome open-source web projects
 - 📫 How to reach me: Discord `improper-adjectives#0597`, email jack@jackcrane.rocks
