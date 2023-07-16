@@ -1,4 +1,4 @@
-![banner image](./IMG_1480.jpeg)
+![banner image](./IMG_1480-min.jpeg)
 
 # Hi there 👋
 
