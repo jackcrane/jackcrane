@@ -1,3 +1,5 @@
+![banner image](./IMG_1480.jpeg)
+
 # Hi there 👋
 
 - 🌱 I’m currently learning React and React Native
